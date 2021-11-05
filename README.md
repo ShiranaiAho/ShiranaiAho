@@ -4,7 +4,7 @@
 Meu nome é Alexandre Fogaça e eu sou um Desenvolvedor Full-Stack.
 - ⏰ Atualmente estou estudando Java, dando uma relembrada em tudo e procurando um emprego.
 - :arrows_clockwise: Aprendo e entendo tudo muito rápido... mas esqueço das coisas na mesma velocidade. :cry:
-- :rocket: **Objetivo**: Evoluir como desenvolvedor e pessoa, e econtrar um emprego.
+- :rocket: **Objetivo**: Evoluir como desenvolvedor e pessoa, e encontrar um emprego.
 
 ## Conhecimentos
 <a href="https://pt.wikipedia.org/wiki/Unix"><img height="70" src="https://github.com/ShiranaiAho/ShiranaiAho/blob/main/Utils/Unix.png"></a>
